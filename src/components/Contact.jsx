@@ -193,7 +193,7 @@ export default function Contact() {
 
               {/* GitHub */}
               <a
-                href="https://github.com/pasinduneranjana"
+                href="https://github.com/RanasundaraRPN"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 p-4 rounded-2xl glass border border-slate-800 hover:border-purple-500/20 transition-all group"
