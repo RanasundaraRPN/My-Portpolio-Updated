@@ -208,7 +208,7 @@ export default function Contact() {
                   </p>
 
                   <p className="text-sm font-semibold text-slate-200 group-hover:text-purple-400 transition-colors">
-                    github.com/pasinduneranjana
+                    github.com/RanasundaraRPN
                   </p>
                 </div>
               </a>
