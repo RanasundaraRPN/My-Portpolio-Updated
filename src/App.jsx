@@ -52,7 +52,7 @@ export default function App() {
               <Linkedin className="w-6 h-6" strokeWidth={1.5} />
             </a>
             <a
-              href="https://github.com/pasinduneranjana"
+              href="https://github.com/RanasundaraRPN"
               target="_blank"
               rel="noreferrer"
               className="p-3.5 rounded-full bg-slate-900/80 border border-slate-700 text-slate-200 hover:text-purple-400 hover:border-purple-500/50 hover:bg-purple-500/10 transition-all duration-300 hover:-translate-y-1 shadow-lg"
