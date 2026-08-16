@@ -155,7 +155,7 @@ export default function Projects() {
           transition={{ delay: 0.2 }}
         >
           <a
-            href="https://github.com/pasinduneranjana"
+            href="https://github.com/RanasundaraRPN"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2.5 px-6 py-3.5 rounded-xl glass border border-slate-700 hover:border-purple-500/50 hover:bg-purple-500/10 text-slate-200 hover:text-white font-sans font-semibold transition-all duration-300 hover:-translate-y-0.5 group shadow-lg"
